@@ -48,10 +48,21 @@ section#section_ask h2 {
   padding: 0px 20px;
 }
 
+section#section_about {
+  background-color: #ecf5ff;
+}
 section#section_about img {
   width: 100%;
 }
 section#section_about .img_wrap {
   height: 230px;
   overflow: hidden;
+}
+
+section#section_video {
+  background-color: #d1e9e9;
+}
+
+section#section_other {
+  background-color: #ecf5ff;
 }
